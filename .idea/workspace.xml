@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dcfea210-d070-4fa5-8b14-c60fcc107c0c" name="Changes" comment="examen" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotChats">
+    <option name="panelChat">
+      <chat>
+        <option name="activeSessionId" value="86c07594-b06b-426f-a7b5-52f4f94e581d" />
+        <option name="sessions">
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="2092b1e7-f542-40c7-bcdb-c59be19451d4" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="gpt-5.2-codex" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="af7cfb3e-c3a3-4061-b7b8-dc7db642e911" />
+            <option name="modeId" value="Ask" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="status" value="Completed" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="86c07594-b06b-426f-a7b5-52f4f94e581d" />
+            <option name="modeId" value="Ask" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+        </option>
+        <option name="type" value="PANEL" />
+      </chat>
+    </option>
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/PIP_2025_1_EQ_3" value="2rxI3URItrsZ5vViejutWC4mpSW" />
+      <entry key="_C:/Users/sgael/PycharmProjects/temas_selectos_tratamiento_de_informacion" value="3E01X22A9yOF1QTsdpD9uFt1ayq" />
+    </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedChatMode">
+    <option name="chatModeId" value="file:///c%3A/snapshot/copilot-intellij/dist/assets/agents/Plan.agent.md" />
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="agent-panel" value="Auto" />
+      <entry key="chat-panel" value="Auto" />
+    </selectedModels>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;assignee&quot;: &quot;a2223330195&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;assignee&quot;: &quot;a2223330195&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/a2223330195/PIP_2025_1_EQ_3.git&quot;,
+    &quot;accountId&quot;: &quot;e80d4d6f-596b-4618-95f1-13ec21db8b35&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2rxI3URItrsZ5vViejutWC4mpSW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Ask" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="LOCAL" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Busqueda_Loca.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Busqueda_Local.executor&quot;: &quot;Run&quot;,
+    &quot;Python.E01_Teorema_de_Pitágoras.executor&quot;: &quot;Run&quot;,
+    &quot;Python.E07_ContarLaCantidadDeCaracteresDeUnaCadena.executor&quot;: &quot;Run&quot;,
+    &quot;Python.E07_Teorema_de_Pitágoras.executor&quot;: &quot;Run&quot;,
+    &quot;Python.E07_contador.executor&quot;: &quot;Run&quot;,
+    &quot;Python.E08_HorasQueLeRestanAlDíaParaTerminarse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.E08_Tabla_de_multiplicar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.E09_Adivina_el_número.executor&quot;: &quot;Run&quot;,
+    &quot;Python.E09_CalcularElFactorialDeUnNúmero.executor&quot;: &quot;Run&quot;,
+    &quot;Python.E4_Asociador_Lineal_Gral.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejecuta_CalculaPromedio (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejecuta_CalculaPromedio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejecuta_EnvioInformacion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejecuta_RecepcionInformacion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejecuta_SeleccionarServicio (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejecuta_SeleccionarServicio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ganancia_energia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Interfaz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Main_P4_ChecarPuedeVotar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P00_INTRODUCCION.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P00_Introduccion (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.P00_Introduccion (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.P00_Introduccion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P01_EjemploConUnBoton.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P01_Imagenes_con_PixMap.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P02 mensaje emergente.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P02_MensajeEmergenteBasico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P03_CajaDeTexto_LineEdit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P03_CajadeTexto_LineEdit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P03_EjemploDial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P04_EjemploSpinBox.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P04_SumaDeDosNumeros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P04_SumaDeLosNumeros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P05_07_contador.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P05_08_horas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P05_09_factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P05_HorizontalSlider.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P05_SumaDeDosNumeros_V2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P05_SumaDeLosNumeros_V2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P06_SumaDeMultiplesNumeros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P06_VerticalSlider.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P07_DoubleSpinBox.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P07_SumaDeMultiplesNumeros-load.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P07_SumaDeMultiplesNumeros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P08_CarruselImagen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P08_Carrusellimagenes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P08_SumaDeMultiplesNumeros-load_V2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.P08_SumaDeMultiplesNumeros-load_V2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P08_SumaDeMultiplesNumeros.load_V2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P08_SumaDeMultiplesNumeros_V2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P09_SegundoPlano.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P09_factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P10_Graficar_Ejemplo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P11_Graficar_Ejemplo2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P12_LecturaConcentradoCalifs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P13_RadioButton_Ejemplo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P14_RadioButton_Ejemplo2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P15_RadioButton_Ejemplo3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P16_CheckBox_Ejemplo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P16_ConexionArduinoPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P17_ConexionArduinoPython_V2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P18_ConexionArduinoPython_V3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P19_ControlLed_Python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P1_EjecutarPrueba (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.P1_EjecutarPrueba.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P1_IntroNumpy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P1_Split-Validation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P2_Cross-Validation (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.P2_MatrizInversa_a_utilizar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P37_ArduinoPythonGUI (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.P37_ArduinoPythonGUI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P38_ArduinoPythonGUI_Read.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P39_ArduinoPythonGUI_ReadWrite.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P40_ArduinoPythonGUI_ReadWrite_VariosSensores.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P41_ArduinoPythonGUI_ReadWrite_VariasActuadores.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P41_ArduinoPythonGUI_ReadWrite_VariosActuadores.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P4_AL_SeparadorDeInstancias_V1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P4_plantilla_Grafica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PP01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PP01_Juego_de_adivinanzas_de_imgenes (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.PP02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PP02_Reloj_digital (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practica2_Cross_Validation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ProyectoPiP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Proyecto_SimonDice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QLCDNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Respaldo_P4_plantilla_Grafica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Satisfaccion_Usuario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Solucion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.VentanaSecundaria.executor&quot;: &quot;Run&quot;,
+    &quot;Python.auditoria_y_limpieza_profunda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calcular_intensidad_emociones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.clasificar_emociones_pysentimiento.executor&quot;: &quot;Run&quot;,
+    &quot;Python.combobox.executor&quot;: &quot;Run&quot;,
+    &quot;Python.combobox_lesson9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.corregir_corpus.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dashboard_reportes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejemplo_componentes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.examen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.extraccion_corpus.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fase_4 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.fase_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fase_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lec-esct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.limpiarcomentarios.executor&quot;: &quot;Run&quot;,
+    &quot;Python.limpiarcomentarios2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.limpieza_sarcasmo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.normalizacion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.outliers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practica 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.simondice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uso_pandas.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/PIP_2025_1_EQ_3/T_informacion/principal&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PIP_2025_1_EQ_3\T_informacion\principal" />
+      <recent name="C:\PIP_2025_1_EQ_3\Sistemas Embebidos" />
+      <recent name="C:\PIP_2025_1_EQ_3\PIP_2025_1_EQ_3\Unidad 4\Practicas" />
+      <recent name="C:\PIP_2025_1_EQ_3\PIP_2025_1_EQ_3\Examen" />
+      <recent name="C:\PIP_2025_1_EQ_3\PIP_2025_1_EQ_3\Unidad 4\P5_Asociador_Lineal" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PIP_2025_1_EQ_3\T_informacion\principal" />
+      <recent name="C:\PIP_2025_1_EQ_3\T_informacion\principal\copia de seguridad" />
+      <recent name="C:\PIP_2025_1_EQ_3\Sistemas Embebidos\practicas 2" />
+      <recent name="C:\PIP_2025_1_EQ_3\PIP_2025_1_EQ_3\Unidad 4\Ejercicios" />
+      <recent name="C:\PIP_2025_1_EQ_3\PIP_2025_1_EQ_3\Unidad 3\Ejercicios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.fase_4 (1)">
+    <configuration name="dashboard_reportes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="temas_selectos_tratamiento_de_informacion" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/T_informacion/principal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/T_informacion/principal/dashboard_reportes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fase_4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="temas_selectos_tratamiento_de_informacion" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/principal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/principal/fase_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fase_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="temas_selectos_tratamiento_de_informacion" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/T_informacion/principal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/T_informacion/principal/fase_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="limpiarcomentarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="temas_selectos_tratamiento_de_informacion" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/T_informacion/principal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/T_informacion/principal/limpiarcomentarios.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="limpiarcomentarios2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="temas_selectos_tratamiento_de_informacion" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/T_informacion/principal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/T_informacion/principal/limpiarcomentarios2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fase_4 (1)" />
+        <item itemvalue="Python.limpiarcomentarios2" />
+        <item itemvalue="Python.limpiarcomentarios" />
+        <item itemvalue="Python.dashboard_reportes" />
+        <item itemvalue="Python.fase_5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.24374.152" />
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcfea210-d070-4fa5-8b14-c60fcc107c0c" name="Changes" comment="" />
+      <created>1737494099682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737494099682</updated>
+      <workItem from="1737494100965" duration="529000" />
+      <workItem from="1737494654601" duration="1921000" />
+      <workItem from="1737497401371" duration="238000" />
+      <workItem from="1737579798392" duration="3236000" />
+      <workItem from="1737646954019" duration="17000" />
+      <workItem from="1737653377549" duration="2140000" />
+      <workItem from="1737901737548" duration="12000" />
+      <workItem from="1737904586352" duration="3721000" />
+      <workItem from="1737988568098" duration="1605000" />
+      <workItem from="1737990396507" duration="13000" />
+      <workItem from="1738011916979" duration="3486000" />
+      <workItem from="1738015884732" duration="1930000" />
+      <workItem from="1738018448459" duration="460000" />
+      <workItem from="1738036229395" duration="25000" />
+      <workItem from="1738084497361" duration="470000" />
+      <workItem from="1738097857565" duration="2818000" />
+      <workItem from="1738104352918" duration="1407000" />
+      <workItem from="1738105975900" duration="2210000" />
+      <workItem from="1738121760531" duration="1111000" />
+      <workItem from="1738122897529" duration="3206000" />
+      <workItem from="1738158316555" duration="439000" />
+      <workItem from="1738158793401" duration="602000" />
+      <workItem from="1738185052977" duration="803000" />
+      <workItem from="1738209487741" duration="282000" />
+      <workItem from="1738250425961" duration="6235000" />
+      <workItem from="1738257387060" duration="2080000" />
+      <workItem from="1738337428093" duration="1765000" />
+      <workItem from="1738350123945" duration="2467000" />
+      <workItem from="1738421936730" duration="906000" />
+      <workItem from="1738512388532" duration="27000" />
+      <workItem from="1738702907000" duration="956000" />
+      <workItem from="1738789438499" duration="3217000" />
+      <workItem from="1738794610100" duration="974000" />
+      <workItem from="1738795619747" duration="195000" />
+      <workItem from="1738795831482" duration="53000" />
+      <workItem from="1738796038074" duration="148000" />
+      <workItem from="1738796202482" duration="198000" />
+      <workItem from="1738885356518" duration="1190000" />
+      <workItem from="1738886976065" duration="81000" />
+      <workItem from="1738951471836" duration="4105000" />
+      <workItem from="1738977909863" duration="4943000" />
+      <workItem from="1739130799374" duration="6575000" />
+      <workItem from="1739221481911" duration="2887000" />
+      <workItem from="1739227557252" duration="478000" />
+      <workItem from="1739232978397" duration="11000" />
+      <workItem from="1739308532475" duration="1395000" />
+      <workItem from="1739309953608" duration="1748000" />
+      <workItem from="1739371129784" duration="1836000" />
+      <workItem from="1739394270569" duration="3323000" />
+      <workItem from="1739408305771" duration="153000" />
+      <workItem from="1739467260826" duration="627000" />
+      <workItem from="1739719879311" duration="12000" />
+      <workItem from="1739719898646" duration="2000" />
+      <workItem from="1739724476759" duration="411000" />
+      <workItem from="1739737518810" duration="128000" />
+      <workItem from="1739739113811" duration="1251000" />
+      <workItem from="1739826223831" duration="3081000" />
+      <workItem from="1739829912283" duration="5000" />
+      <workItem from="1739912803716" duration="2211000" />
+      <workItem from="1739977458159" duration="287000" />
+      <workItem from="1739977790962" duration="552000" />
+      <workItem from="1739998940612" duration="3517000" />
+      <workItem from="1740017309936" duration="34000" />
+      <workItem from="1740322469873" duration="13472000" />
+      <workItem from="1740353839464" duration="3346000" />
+      <workItem from="1740357230137" duration="630000" />
+      <workItem from="1741122473473" duration="3418000" />
+      <workItem from="1741209081144" duration="2934000" />
+      <workItem from="1741220864884" duration="8000" />
+      <workItem from="1741994180477" duration="9298000" />
+      <workItem from="1742012378853" duration="621000" />
+      <workItem from="1742050833829" duration="7429000" />
+      <workItem from="1742137660176" duration="23000" />
+      <workItem from="1742156611112" duration="35000" />
+      <workItem from="1742330066569" duration="5000" />
+      <workItem from="1742331634318" duration="3594000" />
+      <workItem from="1742427835352" duration="16000" />
+      <workItem from="1742850522721" duration="3250000" />
+      <workItem from="1742857774652" duration="2052000" />
+      <workItem from="1742860108641" duration="337000" />
+      <workItem from="1742936825537" duration="1886000" />
+      <workItem from="1743023455738" duration="2524000" />
+      <workItem from="1743041226761" duration="1092000" />
+      <workItem from="1743394621564" duration="7000" />
+      <workItem from="1743455208995" duration="1408000" />
+      <workItem from="1743475802118" duration="15000" />
+      <workItem from="1743627911058" duration="3392000" />
+      <workItem from="1743636378011" duration="931000" />
+      <workItem from="1743637718773" duration="119000" />
+      <workItem from="1744001437316" duration="32000" />
+      <workItem from="1744059989005" duration="1988000" />
+      <workItem from="1744063491122" duration="8000" />
+      <workItem from="1744063573501" duration="2950000" />
+      <workItem from="1744147932335" duration="1497000" />
+      <workItem from="1744214365822" duration="492000" />
+      <workItem from="1744584760135" duration="3985000" />
+      <workItem from="1744588800080" duration="1846000" />
+      <workItem from="1744605235534" duration="19000" />
+      <workItem from="1744686690424" duration="204000" />
+      <workItem from="1744750330188" duration="23717000" />
+      <workItem from="1745874309386" duration="10512000" />
+      <workItem from="1745960961344" duration="3431000" />
+      <workItem from="1745973678890" duration="2447000" />
+      <workItem from="1746021540146" duration="1251000" />
+      <workItem from="1746047433793" duration="1242000" />
+      <workItem from="1746048811756" duration="31000" />
+      <workItem from="1746049031702" duration="5471000" />
+      <workItem from="1746066640545" duration="429000" />
+      <workItem from="1746329119690" duration="1296000" />
+      <workItem from="1746479380986" duration="1773000" />
+      <workItem from="1746481812355" duration="57000" />
+      <workItem from="1746498987636" duration="97000" />
+      <workItem from="1746565696894" duration="2748000" />
+      <workItem from="1746590382406" duration="16000" />
+      <workItem from="1746651968682" duration="1603000" />
+      <workItem from="1746737666478" duration="251000" />
+      <workItem from="1746831785818" duration="120000" />
+      <workItem from="1746891660025" duration="6230000" />
+      <workItem from="1746987090447" duration="6549000" />
+      <workItem from="1747028866629" duration="5137000" />
+      <workItem from="1747251548534" duration="4256000" />
+      <workItem from="1747264133347" duration="5000" />
+      <workItem from="1747266069801" duration="5998000" />
+      <workItem from="1747356828454" duration="6478000" />
+      <workItem from="1747402192503" duration="317000" />
+      <workItem from="1747402792961" duration="362000" />
+      <workItem from="1747403728145" duration="3016000" />
+      <workItem from="1747422421344" duration="18769000" />
+      <workItem from="1771884979347" duration="109000" />
+      <workItem from="1771960332238" duration="1394000" />
+      <workItem from="1771973022851" duration="356000" />
+      <workItem from="1771982148469" duration="517000" />
+      <workItem from="1772489417313" duration="2531000" />
+      <workItem from="1772575428494" duration="3197000" />
+      <workItem from="1772662619890" duration="1370000" />
+      <workItem from="1773095037347" duration="2434000" />
+      <workItem from="1773181182062" duration="2661000" />
+      <workItem from="1773267148274" duration="2181000" />
+      <workItem from="1773549203281" duration="13479000" />
+      <workItem from="1773784884456" duration="1931000" />
+      <workItem from="1773871292661" duration="2794000" />
+      <workItem from="1774390180249" duration="1169000" />
+      <workItem from="1774476314678" duration="2161000" />
+      <workItem from="1776117952446" duration="305000" />
+      <workItem from="1776118402507" duration="458000" />
+      <workItem from="1776119153992" duration="18000" />
+      <workItem from="1776376670068" duration="307000" />
+      <workItem from="1776722734226" duration="3079000" />
+      <workItem from="1776799294282" duration="10000" />
+      <workItem from="1776809161123" duration="4756000" />
+      <workItem from="1776896413048" duration="4413000" />
+      <workItem from="1777338178438" duration="88000" />
+      <workItem from="1777349610326" duration="1527000" />
+      <workItem from="1777493407538" duration="15000" />
+      <workItem from="1777500960532" duration="2549000" />
+      <workItem from="1777651016193" duration="1599000" />
+      <workItem from="1777656939455" duration="13091000" />
+      <workItem from="1777786522942" duration="8210000" />
+      <workItem from="1777852566858" duration="13709000" />
+      <workItem from="1777940643415" duration="4567000" />
+      <workItem from="1777956300753" duration="14000" />
+      <workItem from="1778007170461" duration="1591000" />
+      <workItem from="1778018973102" duration="2407000" />
+      <workItem from="1778041595459" duration="3624000" />
+      <workItem from="1778064926015" duration="27549000" />
+      <workItem from="1778126651974" duration="303000" />
+      <workItem from="1778184915398" duration="910000" />
+      <workItem from="1778187765307" duration="16389000" />
+      <workItem from="1778273814223" duration="3902000" />
+      <workItem from="1778707340115" duration="1031000" />
+      <workItem from="1779295778634" duration="217000" />
+      <workItem from="1779296630699" duration="159000" />
+      <workItem from="1779299159413" duration="68000" />
+      <workItem from="1779300714990" duration="98000" />
+      <workItem from="1779302165556" duration="599000" />
+      <workItem from="1779303345727" duration="132000" />
+      <workItem from="1779305727150" duration="1518000" />
+      <workItem from="1779307492569" duration="1333000" />
+    </task>
+    <task id="LOCAL-00001" summary="primer commit">
+      <option name="closed" value="true" />
+      <created>1738018816495</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738018816495</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1 commit">
+      <option name="closed" value="true" />
+      <created>1738105177091</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738105177091</updated>
+    </task>
+    <task id="LOCAL-00003" summary="primer commit">
+      <option name="closed" value="true" />
+      <created>1738158849364</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738158849364</updated>
+    </task>
+    <task id="LOCAL-00004" summary="agregado ejercicios 7,8 y 9 a la carpeta ejercicios">
+      <option name="closed" value="true" />
+      <created>1738159249432</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738159249434</updated>
+    </task>
+    <task id="LOCAL-00005" summary="agregado ejercicios 7,8 y 9 a la carpeta ejercicios">
+      <option name="closed" value="true" />
+      <created>1738159366919</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738159366919</updated>
+    </task>
+    <task id="LOCAL-00006" summary="correccion de nombres de los programas">
+      <option name="closed" value="true" />
+      <created>1738251071375</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738251071375</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Ejercicios completos agregados">
+      <option name="closed" value="true" />
+      <created>1738422155511</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738422155511</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Unidad 1 completa">
+      <option name="closed" value="true" />
+      <created>1738983464456</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738983464456</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Unidad 1 Completa">
+      <option name="closed" value="true" />
+      <created>1738983487795</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738983487795</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Unidad 2 Completa">
+      <option name="closed" value="true" />
+      <created>1742075198827</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1742075198827</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Carpeta completa">
+      <option name="closed" value="true" />
+      <created>1747431703963</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1747431703963</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Carpeta completada">
+      <option name="closed" value="true" />
+      <created>1747432647526</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1747432647526</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Carpeta completada">
+      <option name="closed" value="true" />
+      <created>1747432757195</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1747432757195</updated>
+    </task>
+    <task id="LOCAL-00014" summary="examen">
+      <option name="closed" value="true" />
+      <created>1747443489103</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1747443489103</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1 commit" />
+    <MESSAGE value="primer commit" />
+    <MESSAGE value="agregado ejercicios 7,8 y 9 a la carpeta ejercicios" />
+    <MESSAGE value="correccion de nombres de los programas" />
+    <MESSAGE value="Ejercicios completos agregados" />
+    <MESSAGE value="Unidad 1 completa" />
+    <MESSAGE value="Unidad 1 Completa&#10;Unidad 1 completa" />
+    <MESSAGE value="Unidad 1 Completa" />
+    <MESSAGE value="Unidad 2 Completa" />
+    <MESSAGE value="Carpeta completa" />
+    <MESSAGE value="Carpeta completada" />
+    <MESSAGE value="examen" />
+    <option name="LAST_COMMIT_MESSAGE" value="examen" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sistemas Embebidos/problema optimizacion/Solucion.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P37_ArduinoPythonGUI.coverage" NAME="P37_ArduinoPythonGUI Coverage Results" MODIFIED="1772489765578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sistemas Embebidos" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$PP01.coverage" NAME="PP01 Coverage Results" MODIFIED="1741996640867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2/Practicas" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P2.coverage" NAME="P2 Coverage Results" MODIFIED="1773268770905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sistemas Embebidos/practicas 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P11_Graficar_Ejemplo2.coverage" NAME="P11_Graficar_Ejemplo2 Coverage Results" MODIFIED="1740341676096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$Ejecuta_SeleccionarServicio.coverage" NAME="Ejecuta_SeleccionarServicio Coverage Results" MODIFIED="1744590101163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Proyecto Final" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$calcular_intensidad_emociones.coverage" NAME="calcular_intensidad_emociones Coverage Results" MODIFIED="1778103976483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/T_informacion/principal" />
+    <SUITE FILE_PATH="coverage/temas_selectos_tratamiento_de_informacion$fase_4__1_.coverage" NAME="fase_4 (1) Coverage Results" MODIFIED="1779300792721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/principal" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$extraccion_corpus.coverage" NAME="extraccion_corpus Coverage Results" MODIFIED="1773604304717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/T_informacion" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$PP02_Reloj_digital__1_.coverage" NAME="PP02_Reloj_digital (1) Coverage Results" MODIFIED="1742006304423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2/Practicas" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P00_Introduccion__1_.coverage" NAME="P00_Introduccion (1) Coverage Results" MODIFIED="1738158735332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 1" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$E07_Teorema_de_Pitágoras.coverage" NAME="E07_Teorema_de_Pitágoras Coverage Results" MODIFIED="1740354807492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2/Ejercicios" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$practica_3.coverage" NAME="practica 3 Coverage Results" MODIFIED="1744829907506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 3/Python" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P1_Split_Validation.coverage" NAME="P1_Split-Validation Coverage Results" MODIFIED="1747426196481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 4/Practicas" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$QLCDNumber.coverage" NAME="QLCDNumber Coverage Results" MODIFIED="1740326752735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2/Practicas" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P17_ConexionArduinoPython_V2.coverage" NAME="P17_ConexionArduinoPython_V2 Coverage Results" MODIFIED="1741125086303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 3/Python" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$E08_HorasQueLeRestanAlDíaParaTerminarse.coverage" NAME="E08_HorasQueLeRestanAlDíaParaTerminarse Coverage Results" MODIFIED="1738338984658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 1/Ejercicios" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P01_Imagenes_con_PixMap.coverage" NAME="P01_Imagenes_con_PixMap Coverage Results" MODIFIED="1741995520885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2/Version García Hernández Jorge Eduardo" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$main.coverage" NAME="main Coverage Results" MODIFIED="1740325776470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2/Practicas" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P39_ArduinoPythonGUI_ReadWrite.coverage" NAME="P39_ArduinoPythonGUI_ReadWrite Coverage Results" MODIFIED="1744833535376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 3/Python" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$ejemplo_componentes.coverage" NAME="ejemplo_componentes Coverage Results" MODIFIED="1739827036773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$E07_ContarLaCantidadDeCaracteresDeUnaCadena.coverage" NAME="E07_ContarLaCantidadDeCaracteresDeUnaCadena Coverage Results" MODIFIED="1738338404953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 1/Ejercicios" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$Satisfaccion_Usuario.coverage" NAME="Satisfaccion_Usuario Coverage Results" MODIFIED="1776809196563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sistemas Embebidos/problema optimizacion" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P16_CheckBox_Ejemplo1.coverage" NAME="P16_CheckBox_Ejemplo1 Coverage Results" MODIFIED="1741996338140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2/Version García Hernández Jorge Eduardo" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$E01_Teorema_de_Pitágoras.coverage" NAME="E01_Teorema_de_Pitágoras Coverage Results" MODIFIED="1739135765718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2/Ejercicios" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$Practica2_Cross_Validation.coverage" NAME="Practica2_Cross_Validation Coverage Results" MODIFIED="1747405278753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 4/Practicas" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$Ejecuta_CalculaPromedio__1_.coverage" NAME="Ejecuta_CalculaPromedio (1) Coverage Results" MODIFIED="1744584913154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonProject1/PythonProject1/Ejemplo 3" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$Ejecuta_EnvioInformacion.coverage" NAME="Ejecuta_EnvioInformacion Coverage Results" MODIFIED="1747447553571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 4/P4_TranspasoInfoVentanas/Ejemplo 1" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P2_MatrizInversa_a_utilizar.coverage" NAME="P2_MatrizInversa_a_utilizar Coverage Results" MODIFIED="1747363559035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 4/P5_Asociador_Lineal" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P4_plantilla_Grafica.coverage" NAME="P4_plantilla_Grafica Coverage Results" MODIFIED="1747028448004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 4/P2_Graficacion" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$E09_CalcularElFactorialDeUnNúmero.coverage" NAME="E09_CalcularElFactorialDeUnNúmero Coverage Results" MODIFIED="1738339043045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 1/Ejercicios" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P05_09_factorial.coverage" NAME="P05_09_factorial Coverage Results" MODIFIED="1737908746116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P37_ArduinoPythonGUI__1_.coverage" NAME="P37_ArduinoPythonGUI (1) Coverage Results" MODIFIED="1772489714774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 3/Python" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$Ejecuta_SeleccionarServicio__1_.coverage" NAME="Ejecuta_SeleccionarServicio (1) Coverage Results" MODIFIED="1744686702798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 3/Proyecto Final" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P05_07_contador.coverage" NAME="P05_07_contador Coverage Results" MODIFIED="1737907587847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$PP02.coverage" NAME="PP02 Coverage Results" MODIFIED="1741996765104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2/Practicas" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$Main_P4_ChecarPuedeVotar.coverage" NAME="Main_P4_ChecarPuedeVotar Coverage Results" MODIFIED="1747027759374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 4/P1_ULto_Python" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P14_RadioButton_Ejemplo2.coverage" NAME="P14_RadioButton_Ejemplo2 Coverage Results" MODIFIED="1740342721751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P01_EjemploConUnBoton.coverage" NAME="P01_EjemploConUnBoton Coverage Results" MODIFIED="1738350673067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 1/EjerciciosUnidad1VersionJorge/Unidad1" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P1_EjecutarPrueba__1_.coverage" NAME="P1_EjecutarPrueba (1) Coverage Results" MODIFIED="1747356280494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 4/P2_Graficacion" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P06_VerticalSlider.coverage" NAME="P06_VerticalSlider Coverage Results" MODIFIED="1740337757378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P04_SumaDeLosNumeros.coverage" NAME="P04_SumaDeLosNumeros Coverage Results" MODIFIED="1737990113388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$combobox.coverage" NAME="combobox Coverage Results" MODIFIED="1740325341445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2/Practicas" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P41_ArduinoPythonGUI_ReadWrite_VariosActuadores.coverage" NAME="P41_ArduinoPythonGUI_ReadWrite_VariosActuadores Coverage Results" MODIFIED="1744829885245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 3/Python" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P2_Cross_Validation__1_.coverage" NAME="P2_Cross-Validation (1) Coverage Results" MODIFIED="1747429686404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 4/Practicas" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P07_SumaDeMultiplesNumeros.coverage" NAME="P07_SumaDeMultiplesNumeros Coverage Results" MODIFIED="1738352548288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 1/EjerciciosUnidad1VersionJorge/Unidad1" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$fase_5.coverage" NAME="fase_5 Coverage Results" MODIFIED="1778104034496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/T_informacion/principal" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P16_ConexionArduinoPython.coverage" NAME="P16_ConexionArduinoPython Coverage Results" MODIFIED="1744760415711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 3/Python" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$limpieza_sarcasmo.coverage" NAME="limpieza_sarcasmo Coverage Results" MODIFIED="1777866585558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/T_informacion" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$PP01_Juego_de_adivinanzas_de_imgenes__1_.coverage" NAME="PP01_Juego_de_adivinanzas_de_imgenes (1) Coverage Results" MODIFIED="1742000541433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2/Practicas" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P02_mensaje_emergente.coverage" NAME="P02 mensaje emergente Coverage Results" MODIFIED="1738350899196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 1/EjerciciosUnidad1VersionJorge/Unidad1" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$Ejecuta_CalculaPromedio.coverage" NAME="Ejecuta_CalculaPromedio Coverage Results" MODIFIED="1747361690080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 4/P4_TranspasoInfoVentanas/Ejemplo 3" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P08_CarruselImagen.coverage" NAME="P08_CarruselImagen Coverage Results" MODIFIED="1741996369207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2/Version García Hernández Jorge Eduardo" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P03_CajadeTexto_LineEdit.coverage" NAME="P03_CajadeTexto_LineEdit Coverage Results" MODIFIED="1738252678990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 1" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$E09_Adivina_el_número.coverage" NAME="E09_Adivina_el_número Coverage Results" MODIFIED="1740357053504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2/Ejercicios" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$nv.coverage" NAME="outliers Coverage Results" MODIFIED="1774477954715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sistemas Embebidos/practicas 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$combobox_lesson9.coverage" NAME="combobox_lesson9 Coverage Results" MODIFIED="1740325460070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2/Practicas" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P1_EjecutarPrueba.coverage" NAME="P1_EjecutarPrueba Coverage Results" MODIFIED="1747028947418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 4/P2.1_Graficacion_Sensor" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P1_IntroNumpy.coverage" NAME="P1_IntroNumpy Coverage Results" MODIFIED="1747363321658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 4/P5_Asociador_Lineal" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$E07_contador.coverage" NAME="E07_contador Coverage Results" MODIFIED="1738159190003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 1/Ejercicios" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P00_Introduccion.coverage" NAME="P00_Introduccion Coverage Results" MODIFIED="1740335296972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$Ejecuta_RecepcionInformacion.coverage" NAME="Ejecuta_RecepcionInformacion Coverage Results" MODIFIED="1747359402732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 4/P4_TranspasoInfoVentanas/Ejemplo 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P05_08_horas.coverage" NAME="P05_08_horas Coverage Results" MODIFIED="1737907594307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P07_SumaDeMultiplesNumeros_load.coverage" NAME="P07_SumaDeMultiplesNumeros-load Coverage Results" MODIFIED="1738084944245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P09_factorial.coverage" NAME="P09_factorial Coverage Results" MODIFIED="1738159165742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 1/Ejercicios" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P03_EjemploDial.coverage" NAME="P03_EjemploDial Coverage Results" MODIFIED="1740336970306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P07_DoubleSpinBox.coverage" NAME="P07_DoubleSpinBox Coverage Results" MODIFIED="1740337989674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$E08_Tabla_de_multiplicar.coverage" NAME="E08_Tabla_de_multiplicar Coverage Results" MODIFIED="1740356737476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2/Ejercicios" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P06_SumaDeMultiplesNumeros.coverage" NAME="P06_SumaDeMultiplesNumeros Coverage Results" MODIFIED="1738351668801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 1/EjerciciosUnidad1VersionJorge/Unidad1" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$limpiarcomentarios2.coverage" NAME="limpiarcomentarios2 Coverage Results" MODIFIED="1778246427754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/T_informacion/principal" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P08_SumaDeMultiplesNumeros_load_V2.coverage" NAME="P08_SumaDeMultiplesNumeros.load_V2 Coverage Results" MODIFIED="1738352303547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 1/EjerciciosUnidad1VersionJorge/Unidad1" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$fase_4.coverage" NAME="fase_4 Coverage Results" MODIFIED="1778104020415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/T_informacion/principal" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$Solucion.coverage" NAME="Solucion Coverage Results" MODIFIED="1776897474279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sistemas Embebidos/problema optimizacion" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$Respaldo_P4_plantilla_Grafica.coverage" NAME="Respaldo_P4_plantilla_Grafica Coverage Results" MODIFIED="1747028440582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 4/P2_Graficacion" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P08_Carrusellimagenes.coverage" NAME="P08_Carrusellimagenes Coverage Results" MODIFIED="1740338503636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P09_SegundoPlano.coverage" NAME="P09_SegundoPlano Coverage Results" MODIFIED="1740341332287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$ProyectoPiP.coverage" NAME="ProyectoPiP Coverage Results" MODIFIED="1738988193120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 1/Proyecto" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P15_RadioButton_Ejemplo3.coverage" NAME="P15_RadioButton_Ejemplo3 Coverage Results" MODIFIED="1740343405249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$normalizacion.coverage" NAME="normalizacion Coverage Results" MODIFIED="1773873627371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sistemas Embebidos/practicas 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P03_CajaDeTexto_LineEdit.coverage" NAME="P03_CajaDeTexto_LineEdit Coverage Results" MODIFIED="1738351029727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 1/EjerciciosUnidad1VersionJorge/Unidad1" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$Busqueda_Loca.coverage" NAME="Busqueda_Loca Coverage Results" MODIFIED="1777503541496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sistemas Embebidos/problema optimizacion" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P05_SumaDeLosNumeros_V2.coverage" NAME="P05_SumaDeLosNumeros_V2 Coverage Results" MODIFIED="1738013067315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P18_ConexionArduinoPython_V3.coverage" NAME="P18_ConexionArduinoPython_V3 Coverage Results" MODIFIED="1741125311197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 3/Python" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$VentanaSecundaria.coverage" NAME="VentanaSecundaria Coverage Results" MODIFIED="1743630040653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 4/P4_TranspasoInfoVentanas" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P10_Graficar_Ejemplo1.coverage" NAME="P10_Graficar_Ejemplo1 Coverage Results" MODIFIED="1740341474756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$simondice.coverage" NAME="Proyecto_SimonDice Coverage Results" MODIFIED="1742071433111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2/proyecto" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$Ganancia_energia.coverage" NAME="Ganancia_energia Coverage Results" MODIFIED="1776811505769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sistemas Embebidos/problema optimizacion" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$corregir_corpus.coverage" NAME="corregir_corpus Coverage Results" MODIFIED="1778065664556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/T_informacion/principal" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P04_EjemploSpinBox.coverage" NAME="P04_EjemploSpinBox Coverage Results" MODIFIED="1740337002429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P38_ArduinoPythonGUI_Read.coverage" NAME="P38_ArduinoPythonGUI_Read Coverage Results" MODIFIED="1744833551912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 3/Python" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P4_AL_SeparadorDeInstancias_V1.coverage" NAME="P4_AL_SeparadorDeInstancias_V1 Coverage Results" MODIFIED="1746567900634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 4/P5_Asociador_Lineal" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P41_ArduinoPythonGUI_ReadWrite_VariasActuadores.coverage" NAME="P41_ArduinoPythonGUI_ReadWrite_VariasActuadores Coverage Results" MODIFIED="1743024217836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 3/Python" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P08_SumaDeMultiplesNumeros_V2.coverage" NAME="P08_SumaDeMultiplesNumeros_V2 Coverage Results" MODIFIED="1738257110200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 1" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$clasificar_emociones_pysentimiento.coverage" NAME="clasificar_emociones_pysentimiento Coverage Results" MODIFIED="1778103661225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/T_informacion/principal" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P12_LecturaConcentradoCalifs.coverage" NAME="P12_LecturaConcentradoCalifs Coverage Results" MODIFIED="1740341821441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P04_SumaDeDosNumeros.coverage" NAME="P04_SumaDeDosNumeros Coverage Results" MODIFIED="1738351254400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 1/EjerciciosUnidad1VersionJorge/Unidad1" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$limpiarcomentarios.coverage" NAME="limpiarcomentarios Coverage Results" MODIFIED="1778218718928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/T_informacion/principal" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P00_INTRODUCCION.coverage" NAME="P00_INTRODUCCION Coverage Results" MODIFIED="1737495226002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$lec_esct.coverage" NAME="lec-esct Coverage Results" MODIFIED="1773096743983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sistemas Embebidos/practicas 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P02_MensajeEmergenteBasico.coverage" NAME="P02_MensajeEmergenteBasico Coverage Results" MODIFIED="1737989314199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidad 1" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P08_SumaDeMultiplesNumeros_load_V2__1_.coverage" NAME="P08_SumaDeMultiplesNumeros-load_V2 (1) Coverage Results" MODIFIED="1738158752354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 1" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$practica.coverage" NAME="practica Coverage Results" MODIFIED="1739310866577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$dashboard_reportes.coverage" NAME="dashboard_reportes Coverage Results" MODIFIED="1778107528726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/T_informacion/principal" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$Interfaz.coverage" NAME="Interfaz Coverage Results" MODIFIED="1776973438235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sistemas Embebidos" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$auditoria_y_limpieza_profunda.coverage" NAME="auditoria_y_limpieza_profunda Coverage Results" MODIFIED="1777860035815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/T_informacion" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$E4_Asociador_Lineal_Gral.coverage" NAME="E4_Asociador_Lineal_Gral Coverage Results" MODIFIED="1747263958210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 4/P5_Asociador_Lineal" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P05_SumaDeDosNumeros_V2.coverage" NAME="P05_SumaDeDosNumeros_V2 Coverage Results" MODIFIED="1738351478492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 1/EjerciciosUnidad1VersionJorge/Unidad1" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P19_ControlLed_Python.coverage" NAME="P19_ControlLed_Python Coverage Results" MODIFIED="1741212019534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 3/Python" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P05_HorizontalSlider.coverage" NAME="P05_HorizontalSlider Coverage Results" MODIFIED="1740337274916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P13_RadioButton_Ejemplo1.coverage" NAME="P13_RadioButton_Ejemplo1 Coverage Results" MODIFIED="1740342417755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P00_Introduccion__2_.coverage" NAME="P00_Introduccion (2) Coverage Results" MODIFIED="1738185094188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$uso_pandas.coverage" NAME="uso_pandas Coverage Results" MODIFIED="1773182326006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sistemas Embebidos/practicas 2" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$P40_ArduinoPythonGUI_ReadWrite_VariosSensores.coverage" NAME="P40_ArduinoPythonGUI_ReadWrite_VariosSensores Coverage Results" MODIFIED="1746049222834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Unidad 3/Python" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$examen.coverage" NAME="examen Coverage Results" MODIFIED="1747270982141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIP_2025_1_EQ_3/Examen" />
+    <SUITE FILE_PATH="coverage/PIP_2025_1_EQ_3$Busqueda_Local.coverage" NAME="Busqueda_Local Coverage Results" MODIFIED="1778021300349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sistemas Embebidos/problema optimizacion" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
